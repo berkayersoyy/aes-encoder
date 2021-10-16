@@ -1,0 +1,21 @@
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.exe
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.deps.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.runtimeconfig.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.runtimeconfig.dev.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\ref\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\bin\Debug\net5.0-windows\Helpers.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi_Sistemleri_ve_Güvenliği_2.Hafta_FormApp.Form1.resources
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.csproj.GenerateResource.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.csproj.CopyComplete
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\ref\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp\obj\Debug\net5.0-windows\Bilgi Sistemleri ve Güvenliği 2.Hafta FormApp.genruntimeconfig.cache

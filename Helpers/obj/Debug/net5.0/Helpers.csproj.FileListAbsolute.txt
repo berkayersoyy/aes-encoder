@@ -1,0 +1,12 @@
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\bin\Debug\net5.0\Helpers.deps.json
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\bin\Debug\net5.0\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\bin\Debug\net5.0\ref\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\bin\Debug\net5.0\Helpers.pdb
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.csprojAssemblyReference.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.AssemblyInfo.cs
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\ref\Helpers.dll
+C:\Users\BERKAY\source\repos\Bilgi Sistemleri ve Güvenliği 2.Hafta\Helpers\obj\Debug\net5.0\Helpers.pdb
