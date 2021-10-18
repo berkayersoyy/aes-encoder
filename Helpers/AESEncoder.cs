@@ -16,7 +16,7 @@ namespace Helpers
                 aes.Mode = CipherMode.CFB;
                 aes.Key = Encoding.UTF8.GetBytes(key);
                 aes.IV = iv;
-                aes.Padding = PaddingMode.Zeros;
+                aes.Padding = PaddingMode.None;
 
                 ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
 
